@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main () {
+int num1 = 19;
+printf("I'm Jhon Christian Bucio, age of %d years old",num1);
+return 0;} 
